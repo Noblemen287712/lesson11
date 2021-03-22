@@ -19,11 +19,16 @@
 .b-head{
     height: 36px;
 }
+.logo-image{
+  height: 50px;
+}
 .b-head-logo{
     float: left;
+    margin-top: 50px;
 }
 .b-head-search{
     float: right;
+    margin-top: 30px;
 }
 
 .b-search-input{
@@ -42,8 +47,8 @@
 .b-button
 {
     color:#fefefe;
-    height:34px;
-    padding:0 12px;
+    height:33px;
+    padding:0 10px;
     line-height:33px;
     cursor:pointer;
     background-color:#29c5e6;
